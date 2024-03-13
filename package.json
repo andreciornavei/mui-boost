@@ -1,6 +1,6 @@
 {
   "name": "@andreciornavei/mui-boost",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "type": "module",
   "scripts": {
     "develop": "react-scripts start",
@@ -63,34 +63,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "keywords": [
-    "material",
-    "mui",
-    "flatlist",
-    "custom",
-    "components",
-    "reactjs"
-  ],
-  "license": "ISC",
-  "homepage": "https://github.com/andreciornavei/mui-boost#readme",
-  "author": {
-    "name": "André Ciornavei",
-    "email": "andre.ciornavei@gmail.com",
-    "url": "https://github.com/andreciornavei"
-  },
-  "maintainers": [
-    {
-      "name": "André Ciornavei",
-      "email": "andre.ciornavei@gmail.com",
-      "url": "https://github.com/andreciornavei"
-    }
-  ],
-  "bugs": {
-    "url": "https://github.com/andreciornavei/mui-boost/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/andreciornavei/mui-boost.git"
   }
 }
